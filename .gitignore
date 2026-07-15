@@ -1,3 +1,11 @@
 .mcp.json
 .vs/
 .claude/settings.local.json
+x64/
+x86/
+Debug/
+Release/
+*.ilk
+*.pdb
+*.obj
+*.log
